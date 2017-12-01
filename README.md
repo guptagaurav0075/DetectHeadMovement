@@ -2,7 +2,7 @@
 
 Detect head movement in top-down or left-right direction.
 
-##Description
+## Description
 
 Initially user's face region is detected. Points on face are tracked on the user's facial region to track the user's head movement. 
 If the user moves the head in top-down direction, 
