@@ -10,7 +10,7 @@ the tool displays the message on the top left corner of the window about the ges
 
 Tracking Mechanism:
 ```
-Initially the facial region is identified with the help of Intel distributed fa. Once the facial region is identified. 
+Initially the facial region is identified with the help of Intel distributed frontal facial detector. Once the facial region is identified. 
 The system uses Lucas-Kanade algorithm to track the special feature point on the face.
 Program currently tracking only one single feature point. That is the center of the facial region.
 
